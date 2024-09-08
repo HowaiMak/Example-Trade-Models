@@ -4,5 +4,5 @@ Ideally, this will include either trading strategies or forecasting methods.
 The hub will be updated regulary (hopefully).
 
 ### Current Existing Models (in this repository):
-1. Moving Average Crossover
+1. Moving Average Crossover Strategy
 2. Holt-Winter Forecasting
