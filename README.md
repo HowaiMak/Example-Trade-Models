@@ -1,7 +1,7 @@
 # SIMPLE_TRADEMODELS
 Simple Trading and Forecasting Models
 ## Outline
-This project was initiated on 10/2022 used as my own reference for simple trading models that already exist. The GitHub repository is created on 09/2024 for public use yet not all models have been uploaded. The hub will be updated regulary (hopefully).
+This project was initiated on 10/2022 and used as my own reference for simple trading models that already exist. The GitHub repository was created on 09/2024 for public use, yet not all models have been uploaded. The hub will be updated regularly (hopefully).
 
 ### Current Existing Models (in this repository):
 1. Moving Average Crossover Strategy
