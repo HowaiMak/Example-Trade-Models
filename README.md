@@ -8,7 +8,7 @@ This project was initiated on 10/2022 used as my own reference for simple tradin
 2. Holt-Winter Forecasting
 
 ## Testings & Implementing
-All referencing models in this repository are coded in ipython. Ideal this should be run or either python, or even better C++.
+All referencing models in this repository are coded in ipython. Idealy this should be run or either python, or even better C++.
 The choice of Jupyter Notebook is simply for demonstrating purposes and readability.
 
 For those who wish to run the code in python instead of ipython, please copy the code into a .py files first.
