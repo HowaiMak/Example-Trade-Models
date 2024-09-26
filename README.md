@@ -5,7 +5,7 @@ This project was initiated on 10/2022 used as my own reference for simple tradin
 
 ### Current Existing Models (in this repository):
 1. Moving Average Crossover Strategy
-2. Holt-Winter Forecasting
+2. Holts-Winter Time Series Forecasting
 
 ## Testings & Implementing
 All referencing models in this repository are coded in ipython. Idealy this should be run or either python, or even better C++.
