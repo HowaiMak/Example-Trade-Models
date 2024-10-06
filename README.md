@@ -18,5 +18,5 @@ Alternative way can be done manually by inputting the directory address into the
 Commencing the program shall be done via the terminal (cmd) by calling "python script_name.py".
 If potential error appears please run in administrative mode, or check the executable of the .py file
 
-### Cross Validations:
+## Cross Validations:
 It is welcomed to use multiple strategy at the same time to generate insights for trading decisions. Some of my private strategies also adapts the same ideology.
