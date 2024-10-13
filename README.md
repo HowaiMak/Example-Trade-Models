@@ -7,6 +7,7 @@ This project was initiated on 10/2022 and used as my own reference for simple tr
 1. Moving Average Crossover Strategy
 2. Holts-Winter Time Series Forecasting
 3. Mean Reversion Strategy
+4. Black Swan Event Indicators
 
 ## Testings & Implementing:
 All referencing models in this repository are coded in ipython. Idealy this should be run or either python, or even better C++.
